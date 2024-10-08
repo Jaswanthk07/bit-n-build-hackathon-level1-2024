@@ -1,7 +1,7 @@
 
 # Startup Progress Dashboard
 
-## Code Crafters
+## Code Crafters (TEAM NAME)
 
 ## Project Idea
 
